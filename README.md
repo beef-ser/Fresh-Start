@@ -1,3 +1,3 @@
 # Fresh-Start
 
-This is the readme for Fresh start
+Readme for Fresh start
